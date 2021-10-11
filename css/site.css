@@ -59,3 +59,8 @@ footer .social>a:hover {
     bottom: 0;
     width: 100%;
 }
+
+.evenDisplay {
+    font-weight: bolder;
+    color: var(--secondary-color)
+}
